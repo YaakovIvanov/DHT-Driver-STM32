@@ -1,1 +1,1 @@
-# DHT-Driver-STM32
+# DHT Sensor Driver for STM32
